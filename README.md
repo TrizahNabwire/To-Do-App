@@ -1,4 +1,6 @@
 # ToDo App
+![To-Do App Screenshot](https://github.com/TrizahNabwire/To-Do-App/assets/99127888/e4688d39-842a-4008-a7e7-0a45e85d47f3)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
